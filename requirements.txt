@@ -1,0 +1,53 @@
+# Core Dependencies
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+
+# Database
+psycopg2-binary
+pymongo
+redis
+
+# ML and AI
+scikit-learn
+numpy
+pandas
+torch
+transformers
+
+# LLM and Agents
+langchain
+langchain-community
+langgraph
+langfuse
+ollama
+
+# Document Processing
+pypdf2
+pdfplumber
+python-docx
+openpyxl
+Pillow
+pytesseract
+easyocr
+
+# Image Processing
+opencv-python
+
+# Frontend
+streamlit
+streamlit-chat
+
+# Utilities
+python-dotenv
+httpx
+aiofiles
+python-multipart
+
+# Observability
+langfuse
+
+# Testing
+pytest
+pytest-asyncio
