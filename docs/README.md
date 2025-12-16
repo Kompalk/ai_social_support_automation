@@ -127,6 +127,3 @@ See `docs/` directory for detailed documentation on:
 - Model training and evaluation
 - API reference
 
-## License
-MIT License
-
