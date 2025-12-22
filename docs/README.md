@@ -38,7 +38,7 @@ This project automates the social security department's application process, red
 
 1. Clone the repository:
 ```bash
-git clone (https://github.com/Kompalk/ai_social_support_automation.git)
+git clone https://github.com/Kompalk/ai_social_support_automation.git
 cd ai_social_support_automation
 ```
 
